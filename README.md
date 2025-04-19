@@ -1,0 +1,2 @@
+# Ataxx_Judge
+本地编译并自动对战BotZone的Ataxx游戏的程序
